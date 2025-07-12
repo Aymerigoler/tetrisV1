@@ -1,0 +1,8 @@
+The best language to code Tetris depends on your goals and experience. Popular choices include:
+
+- Python (easy to learn, good for beginners, use with Pygame)
+- JavaScript (runs in browsers, easy to share)
+- C++ or C# (for performance, use with game engines like Unity or SDL)
+- Java (cross-platform, good libraries)
+
+For learning and prototyping, Python with Pygame is highly recommended. For web-based Tetris, use JavaScript with HTML5 Canvas.
